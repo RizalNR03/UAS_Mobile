@@ -8,7 +8,7 @@ import 'models/model_news.dart';
 import 'models/model_todo.dart';
 
 class API {
-  static const urlCore = 'https://e2ba-103-104-130-7.ngrok-free.app';
+  static const urlCore = 'https://uasmobilerizal.000webhostapp.com';
 
   final getTodo = urlCore + "/todo/api/getTodo.php";
   final addTodo = urlCore + "/todo/api/addTodo.php";
